@@ -4,7 +4,7 @@
 
 ;; Author: Yevhen Tukubaiev <etukubaev2@gmail.com>
 ;; Keywords: languages, unix
-;; Package-Requires: ((emacs "24") (ansi-color) (conf-mode))
+;; Package-Requires: ((emacs "24"))
 ;; SPDX-License-Identifier: GPL-3.0-or-later
 ;; Version: 1.0
 ;; URL: https://github.com/geuonne/conf-dircolors-mode.el
