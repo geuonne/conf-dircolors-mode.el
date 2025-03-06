@@ -65,6 +65,7 @@
     "SGID" "SETGID" "SUID" "SETUID")
   "Known keywords for dircolors files.")
 
+;;;###autoload
 (defconst conf-dircolors-file-regexp "/\\(\\.dir_colors\\|DIR_COLORS\\)\\'"
   "Regular expression for matching dircolors files.")
 
