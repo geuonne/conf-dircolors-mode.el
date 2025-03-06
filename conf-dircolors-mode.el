@@ -30,11 +30,11 @@
 ;; See `man:dircolors(1)`, `man:dir_colors(5)` for details about dircolors.
 ;; See also [dircolors plugin for Vim](https://github.com/vim/vim/blob/master/runtime/syntax/dircolors.vim).
 
-;; `conf-dircolors-propertize-ansi' function is mainly inspired from
-;; `rainbow-colorize-ansi' function from `rainbow-mode' library.
+;; `conf-dircolors-propertize-ansi-itself' function is mainly inspired
+;; from `rainbow-colorize-ansi' function from `rainbow-mode' library.
 
 ;; As in `rainbow-mode' library, matched strings are propertized either
-;; with `xterm-color-filter' (if `xterm-color' library is present) or
+;; with `xterm-color-filter' (if `xterm-color' library is available) or
 ;; `ansi-color-apply'.
 
 
