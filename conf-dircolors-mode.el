@@ -28,7 +28,8 @@
 
 ;; A major mode to edit `dircolors` configuration files.
 ;; See `man:dircolors(1)`, `man:dir_colors(5)` for details about dircolors.
-;; See also [dircolors plugin for Vim](https://github.com/vim/vim/blob/master/runtime/syntax/dircolors.vim).
+;; See also dircolors plugin for Vim:
+;; https://github.com/vim/vim/blob/master/runtime/syntax/dircolors.vim
 
 ;; `conf-dircolors-propertize-ansi-itself' function is mainly inspired
 ;; from `rainbow-colorize-ansi' function from `rainbow-mode' library.
